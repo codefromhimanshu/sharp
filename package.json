@@ -172,9 +172,6 @@
     "runtime": "napi",
     "target": 7
   },
-  "engines": {
-    "node": ">=14.15.0"
-  },
   "funding": {
     "url": "https://opencollective.com/libvips"
   },
